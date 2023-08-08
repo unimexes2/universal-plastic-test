@@ -1,5 +1,4 @@
 import LocationComponent from "./Components/LocationComponent";
-import MapComponent from "./Components/AreaComponent";
 import AreaComponent from "./Components/AreaComponent";
 
 export default function FirstScreen({
